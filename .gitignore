@@ -1,0 +1,14 @@
+# 以下不需要放入gulimall系统
+/renren-generator
+
+### Maven ###
+target/
+.mvn/
+**/mvnw
+**/mvnw.cmd
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
